@@ -1,4 +1,4 @@
-##Hello! Code in Place 2021 friends##
+## Hello Code in Place 2021 friends!
 
 **Purpose:**
 This was a final project for Stanford University Code in Place 2021.
